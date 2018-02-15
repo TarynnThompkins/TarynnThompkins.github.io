@@ -1,0 +1,85 @@
+# TarynnThompkins.github.io
+website project
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        body{
+            background-color:rgb(158, 171, 142);
+        }
+            #title{
+                color:rgb(235, 233, 197);
+            }
+            #beaches{
+                color:rgb(182, 219, 184);
+            }
+            #hike{
+                color:rgb(182, 219, 184);
+            }
+            #themepark{
+                color:rgb(182, 219, 184);
+            }
+            .lists{
+                color:rgb(242, 237, 233);
+            }
+            .titles{
+                color:rgb(156, 145, 156);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1 id="title">Travel to Sunny <em>California</em></h1>
+        <h2 id="beaches">
+            Warm Picturesque Beaches
+        
+        </h2>
+        <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Beach-Elk.jpg" width = "500"height = "400">
+        </p>
+        <h3 class ="titles">
+            Popular California Beaches
+        </h3>
+        <ol class = "lists">
+            <li>Huntington Beach
+            <li>La Jolla Shores Beach
+            <li>Santa Monica Sate Beach
+            <li>Pebble Beach
+            <li>Venice Beach
+        </ol>
+        <h2 id="hike">
+            Go on a Hike!
+        </h2>
+        <p> 
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lands_End_-_San_Francisco_zum_Meer.JPG/1200px-Lands_End_-_San_Francisco_zum_Meer.JPG" width = "500">
+        </p>
+        <h3 class ="titles">
+            Popular Coastal Hikes
+        </h3>
+        <ol class = "lists">
+            <li>Redwood National Park
+            <li>Point Reyes
+            <li>Hawk Hill
+            <li>Mt. Diablo
+            <li>Ewoldsen Trail
+        </ol>
+        <h2 id="themepark">
+            Visit a Theme Park
+        </h2>
+        <p>
+            <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mickey%27s_Fun_wheel.jpg/220px-Mickey%27s_Fun_wheel.jpg" width = "500">
+        </p>
+        <h3 class ="titles">
+            List of California Theme Parks
+        </h3>
+        <ol class= "lists">
+            <li>Disneyland
+            <li>Knott's Berry Farm
+            <li>Universal Studios Hollywood
+            <li>Legoland
+            <li>Disney California Adventure</li>
+        </ol>
+    </body>
+</html>
